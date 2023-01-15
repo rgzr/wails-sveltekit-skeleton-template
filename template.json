@@ -1,0 +1,7 @@
+{
+  "name": "Wails SvelteKit Skeleton Template",
+  "shortname": "wails-sveltekit-flowbite-template",
+  "author": "rgzr",
+  "description": "SvelteKit template with Flowbite and TS",
+  "helpurl": "https://github.com/rgzr/wails-sveltekit-flowbite-template"
+}
